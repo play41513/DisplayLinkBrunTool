@@ -1,0 +1,17 @@
+//---------------------------------------------------------------------------
+
+#ifndef WORKThreadH
+#define WORKThreadH
+//---------------------------------------------------------------------------
+#include <Classes.hpp>
+//---------------------------------------------------------------------------
+class TWORKThread : public TThread
+{
+protected:
+	void __fastcall Execute();
+	bool TWORKThread::CheckDisplayLinkChipUSB3();
+public:
+	__fastcall TWORKThread(bool CreateSuspended);
+};
+//---------------------------------------------------------------------------
+#endif

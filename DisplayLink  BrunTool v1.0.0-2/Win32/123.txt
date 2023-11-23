@@ -1,0 +1,276 @@
+The following third-party driver packages are installed on this computer:
+oem0.inf
+    Provider: Microsoft
+    Class: oem1.inf
+    Provider: Intel
+    Class: IDE ATA/ATAPI oem10.inf
+    Provider: Realtek Semiconduct Corp.
+    Class: oem100.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem101.inf
+    Provider: libwdi
+    Class: oem102.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem103.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem104.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem105.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem106.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem107.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem108.inf
+    Provider: Segger
+    Class: oem109.inf
+    Provider: SEGGER
+    Class: oem11.inf
+    Provider: Realtek Semiconduct Corp.
+    Class: oem110.inf
+    Provider: SAMSUNG Electronics Co., Ltd. 
+    Class: oem111.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem112.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem113.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem114.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem115.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem116.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem117.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem118.inf
+    Provider: SAMSUNG Electronics Co., Ltd. 
+    Class: oem119.inf
+    Provider: ASIX
+    Class: oem12.inf
+    Provider: Realtek Semiconductor Corp.
+    Class: oem125.inf
+    Provider: SAMSUNG Electronics Co., Ltd. 
+    Class: oem126.inf
+    Provider: C-Media
+    Class: oem128.inf
+    Provider: Microsoft
+    Class: oem13.inf
+    Provider: Alps
+    Class: oem132.inf
+    Provider: wch.cn
+    Class: oem14.inf
+    Provider: Realtek
+    Class: oem15.inf
+    Provider: Intel(R) Corporation
+    Class: oem16.inf
+    Provider: Intel Corporation
+    Class: oem17.inf
+    Provider: Intel Corporation
+    Class: oem18.inf
+    Provider: Intel Corporation
+    Class: oem19.inf
+    Provider: NVIDIA
+    Class: oem2.inf
+    Provider: Intel
+    Class: oem20.inf
+    Provider: NVIDIA
+    Class: oem21.inf
+    Provider: Intel Corporation
+    Class: IDE ATA/ATAPI oem22.inf
+    Provider: Intel
+    Class: oem23.inf
+    Provider: Intel
+    Class: oem24.inf
+    Provider: Intel
+    Class: oem25.inf
+    Provider: Hewlett-Packard Development Company, L.P.
+    Class: oem26.inf
+    Provider: Hewlett-Packard Development Company, L.P.
+    Class: oem27.inf
+    Provider: Intel Corporation
+    Class: Bluetooth
+oem28.inf
+    Provider: HP
+    Class: oem29.inf
+    Provider: CyberLink
+    Class: oem3.inf
+    Provider: Intel
+    Class: oem30.inf
+    Provider: Alps
+    Class: oem31.inf
+    Provider: NVIDIA
+    Class: oem32.inf
+    Provider: Castles Technology
+    Class: oem33.inf
+    Provider: Microsoft
+    Class: oem34.inf
+    Provider: Brother
+    Class: oem35.inf
+    Provider: Brother
+    Class: oem36.inf
+    Provider: Brother
+    Class: oem37.inf
+    Provider: Microsoft Corporation
+    Class: oem38.inf
+    Provider: Intel
+    Class: oem39.inf
+    Provider: Intel
+    Class: oem4.inf
+    Provider: Intel
+    Class: oem40.inf
+    Provider: Intel
+    Class: oem41.inf
+    Provider: Intel
+    Class: oem42.inf
+    Provider: Intel
+    Class: oem43.inf
+    Provider: Prolific
+    Class: oem44.inf
+    Provider: Apple
+    Class: oem45.inf
+    Provider: TOSHIBA
+    Class: oem46.inf
+    Provider: TOSHIBA
+    Class: oem47.inf
+    Provider: Realtek
+    Class: oem48.inf
+    Provider: Action Star Technology Co., Ltd.
+    Class: oem49.inf
+    Provider: Cypress
+    Class: oem5.inf
+    Provider: Intel
+    Class: oem50.inf
+    Provider: Cypress
+    Class: oem51.inf
+    Provider: Microsoft
+    Class: oem52.inf
+    Provider: KEIL - Tools By ARM
+    Class: oem53.inf
+    Provider: ASIX
+    Class: oem54.inf
+    Provider: ELTIMA Software
+    Class: Virtual Serial Ports 8 (Eltima Software)
+oem55.inf
+    Provider: ELTIMA Software
+    Class: oem56.inf
+    Provider: DENSO WAVE
+    Class: oem57.inf
+    Provider: DENSO WAVE
+    Class: oem58.inf
+    Provider: Vyacheslav Frolov
+    Class: com0com - serial port emulators
+oem59.inf
+    Provider: ASIX
+    Class: oem6.inf
+    Provider: Realtek
+    Class: oem60.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem61.inf
+    Provider: Disc Soft Ltd
+    Class: oem62.inf
+    Provider: Disc Soft Ltd
+    Class: oem63.inf
+    Provider: Microsoft
+    Class: oem64.inf
+    Provider: Microsoft
+    Class: oem67.inf
+    Provider: Cypress
+    Class: oem7.inf
+    Provider: Realtek
+    Class: oem70.inf
+    Provider: Vyacheslav Frolov
+    Class: com0com - serial port emulators
+oem71.inf
+    Provider: Vyacheslav Frolov
+    Class: com0com - serial port emulators
+oem72.inf
+    Provider: FTDI
+    Class: oem73.inf
+    Provider: FTDI
+    Class: oem74.inf
+    Provider: STMicroelectronics
+    Class: oem75.inf
+    Provider: Z-TEK
+    Class: oem76.inf
+    Provider: Silicon Laboratories
+    Class: oem77.inf
+    Provider: Apple, Inc.
+    Class: oem78.inf
+    Provider: Microsoft
+    Class: oem79.inf
+    Provider: DisplayLink Corp.
+    Class: USB Display Adapters
+oem8.inf
+    Provider: Realtek Semiconduct Corp.
+    Class: oem80.inf
+    Provider: DisplayLink Corp.
+    Class: oem81.inf
+    Provider: DisplayLink Corp.
+    Class: oem82.inf
+    Provider: ASIX
+    Class: oem83.inf
+    Provider: Realtek
+    Class: oem84.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem85.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem86.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem87.inf
+    Provider: libwdi
+    Class: oem88.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem89.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem9.inf
+    Provider: Realtek Semiconduct Corp.
+    Class: oem90.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem91.inf
+    Provider: libusb-win32
+    Class: libusb-win32 devices
+oem92.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem93.inf
+    Provider: FTDI
+    Class: oem94.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem95.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem96.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem97.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem98.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
+oem99.inf
+    Provider: libusbK
+    Class: libusbK USB Devices
