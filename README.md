@@ -3,6 +3,18 @@
 
 ## Program
 
+### DisplayLink  BrunTool v1.4
+- Notices :Copyright(c) 2024 Leno
+- Compiler :Embarcadero RAD Studio 2010 Version 14.0.3615.26342
+- OS :Windows 8 ver6.3 Build 9600
+- Desc : 
+	- Replace dl_mfg_test.exe
+	- Remove Win10 usbio_driver 
+	- Remove network check
+	- Add custom serial number feature
+	- Add system driver version check in the installer.if the version is below 11.4, the installer will run the 11.4 version of the driver installation.
+	(Check location: HKEY_LOCAL_MACHINE\SOFTWARE\DisplayLink\Core > Version)
+
 ### DisplayLink  BrunTool v1.3
 - Notices :Copyright(c) 2023 Leno
 - Compiler :Embarcadero RAD Studio 2010 Version 14.0.3615.26342
